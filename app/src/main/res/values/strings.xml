@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p15</string>
+    <string name="Year">TextView</string>
+    <string name="diff">123 days</string>
+    <string name="editText">editText</string>
+    <string name="image">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
